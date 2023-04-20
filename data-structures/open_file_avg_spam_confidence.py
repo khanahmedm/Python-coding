@@ -1,7 +1,11 @@
 #!/usr/bin/python3
 
 fname = input('Enter file name:')
-fh = open(fname)
+try:
+    fh = open(fname)
+except:
+    print('Error: invalid filename')
+    quit()
 
 total = 0
 count = 0
