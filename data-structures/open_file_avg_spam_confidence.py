@@ -18,6 +18,6 @@ for line in fh:
     count = count + 1
     total = total + num
 
-avg_spam_conf = total/num
+avg_spam_conf = total/count
 
 print('Average spam confidence:', avg_spam_conf)
