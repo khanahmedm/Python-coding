@@ -52,3 +52,9 @@ The workaround is to specify Encrypt=no in the connection string.
 Use the below link for more details:
 
 https://github.com/mkleehammer/pyodbc/issues/610
+
+
+### How to access SQL Server Network Configuration from Computer Management:
+The below link discusses on how to enable TCP configuration from Computer Management.
+
+https://littlekendra.com/2021/05/05/how-to-enable-tcpip-in-sql-server-even-if-configuration-manager-is-missing/
