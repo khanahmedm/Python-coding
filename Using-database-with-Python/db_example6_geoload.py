@@ -10,7 +10,7 @@ import sys
 
 api_key = False
 # If you have a Google Places API key, enter it here
-#api_key = 'AIzaSyDUldnK0IaTSVDt-Q9-1iRWayo1eX9Dg5w'
+#api_key = ''
 
 if api_key is False:
     serviceurl = "http://py4e-data.dr-chuck.net/geojson?"
