@@ -4,7 +4,7 @@ I completed this course back in 2018. I was not using github at that time. I sta
 
 I just recently went through the materials and uploaded them again as they may contain some changes.
 
-Python for Everybody is a great course for beginners and also a good course if you do not use Python regularly and want to refresh your knowlegde. It was prepared by Dr. Charles Severance.
+Python for Everybody is a great course for beginners and also a good course if you do not use Python regularly and want to refresh your knowledge. It was prepared by Dr. Charles Severance.
 
 Additional materials can be found using the below links:
 
